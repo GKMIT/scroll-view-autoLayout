@@ -1,4 +1,4 @@
-# scrollViewAutoLayout
+# scroll-view-autoLayout
 How to configure a UIScrollView with Auto Layout in Interface Builder. <br />
 We saw many ios beginner developers are stuck on scrollView with dynamic width and height. We will show you a good way of handling this things. In this approach we are doing this with storyboard only. As per your requirement create your design(Any height) it will automatically take care all things. <br />
 Follow this steps: <br />
