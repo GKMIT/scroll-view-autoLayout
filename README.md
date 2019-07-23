@@ -31,3 +31,6 @@ Follow this steps: <br />
 16. We are done with our setup. <br />
 17. Now you can design your view with any height. <br />
 18. Congrats you are done with scroll view with autolayout. <br />
+
+## Found a bug?
+Let us know! Send a pull request or a patch. Questions? Ask! We're here to help. We will respond to all filed issues.
